@@ -3,7 +3,7 @@ Allele Fixation - Matlab Project
 Run Start.m file.
 
 Description:
-My implemetation for a university project on allele fixation.
+Matlab implementation for a university project on allele fixation simulation.
 This project simulates the effect of a usefull allele on its fixation in individuals in a population.
 
 In each turn of the simulation individuals move and reproduce. Each individual can move an amount of steps accordings to it's genotype. The simulation shows how these alleles fixate according to different settings.
